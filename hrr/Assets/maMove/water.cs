@@ -27,5 +27,26 @@ public class water : MonoBehaviour {
 	void Update () {
 		SOLIDBois __thisdude = new RERERe();
 		__thisdude.AAAA();
+
+		//Logic for the future
+		/*
+		fdsopfewprkwepfr
+		gf
+		dg
+		df
+		ger
+		t
+		er
+		t
+		ytrpopgifp´gdfhfg
+		j
+		tr
+		y
+		rty
+		rt
+		
+		
+		
+		 */
 	}
 }

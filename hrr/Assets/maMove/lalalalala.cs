@@ -12,5 +12,14 @@ public class lalalalala : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		print("Bug que vai zoar o bang todo");
+		fekwkrlwekjflds
+		ferwjkglfd,cmvc
+
+		hgkergoptekger
+		static int Main(string[] args)
+		{
+			dfjksdofgwe
+			return 0;
+		}
 	}
 }
