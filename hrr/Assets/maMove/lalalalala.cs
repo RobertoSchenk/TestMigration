@@ -13,31 +13,6 @@ public class lalalalala : MonoBehaviour {
 	void Update () {
 		print("Bug que vai zoar o bang todo");
 		fekwkrlwekjflds
-
-		fekwkrlwekjfldsg
-
-		etr
-		etrt
-		UnityEnginedfs
-
-		dq
-
-		ytr
-		iuyu
-		if (ut
-		j
-		fr
-		hd
-		h
-		fg
-		h
-		ut
-		
-		yu
-		t)
-		{
-			
-		}
 		ferwjkglfd,cmvc
 
 		hgkergoptekger
